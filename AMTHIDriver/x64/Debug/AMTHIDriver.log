@@ -1,0 +1,19 @@
+﻿  Building 'AMTHIDriver' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Debug\AMTHIDriver.inf
+  Stamping [Version] section with DriverVer=10/27/2019,14.53.48.384
+  AMTHIDriver.vcxproj -> C:\Users\SANSLAB\Desktop\AMTHIDriver\x64\Debug\AMTHIDriver.sys
+  Driver is a Universal Driver.
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\SANSLAB\Desktop\AMTHIDriver\x64\Debug\AMTHIDriver\amthidriver.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\SANSLAB\Desktop\AMTHIDriver\x64\Debug\AMTHIDriver\amthidriver.cat
+  
